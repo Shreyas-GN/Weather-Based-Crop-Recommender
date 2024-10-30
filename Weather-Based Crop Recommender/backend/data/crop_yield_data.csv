@@ -1,0 +1,4 @@
+temperature,rainfall,humidity,season,crop
+22,180,75,Summer,Rice
+20,150,60,Autumn,Wheat
+25,220,80,Spring,Maize
